@@ -5,7 +5,7 @@ seoDescription: "automate ec2 instance"
 datePublished: Thu Jan 04 2024 14:17:14 GMT+0000 (Coordinated Universal Time)
 cuid: clqzak222000d09jj4jkkbu53
 slug: stop-start-aws-ec2-at-regular-intervals
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/K-Iog-Bqf8E/upload/41452ecc39af6faca547739681dd840d.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704377914547/b11cf29f-0c94-4746-a837-65f191bd6991.avif
 tags: lambda, cloud, ec2, aws, developer, cloud-computing, devops, devsecops
 
 ---
