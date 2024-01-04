@@ -28,13 +28,13 @@ In this blog we will look into how to Secure XRDP on Ubuntu/CentOS with SSL/TLS 
 3. SSL Certificate ( .cert , .key )
     
 
-# **Install required packages**
+# **How to install XRDP ?**
 
 ## **For Ubuntu /Debian based**
 
 ```bash
 sudo apt update -y 
-sudo apt install xrdp openssl -y 
+sudo apt install xrdp openssl -y
 ```
 
 ## **For Centos/ Red hat/ Rocky**
@@ -43,6 +43,8 @@ sudo apt install xrdp openssl -y
 sudo yum update -y
 sudo yum install xrdp openssl -y
 ```
+
+# Secure Your XRDP:
 
 ### **Copy your cert and key file to the /etc/xrdp/**
 
