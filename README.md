@@ -1,1 +1,1 @@
-***Integrated with Hashnode blogs***
+**Integrated with Hashnode blogs**
