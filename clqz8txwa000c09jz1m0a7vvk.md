@@ -5,6 +5,7 @@ seoDescription: "XRDP Encryption"
 datePublished: Thu Jan 04 2024 13:28:56 GMT+0000 (Coordinated Universal Time)
 cuid: clqz8txwa000c09jz1m0a7vvk
 slug: tls-encryption-for-xrdp-on-linux
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/FnA5pAzqhMM/upload/83ca3e094b85f617529db2bcadd27414.jpeg
 tags: ssl, ubuntu, linux, security, devops, tls, centos, xrp
 
 ---
