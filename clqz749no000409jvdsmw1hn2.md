@@ -5,6 +5,7 @@ seoDescription: "web hosting made easy"
 datePublished: Thu Jan 04 2024 12:40:59 GMT+0000 (Coordinated Universal Time)
 cuid: clqz749no000409jvdsmw1hn2
 slug: most-easy-way-of-aws-web-hosting
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/1TjORT2dLOw/upload/a9d8ae9aea0fd23f6bdf5e68d5167327.jpeg
 tags: website, blogging, hosting, linux, aws, wordpress, web-development, devops, lightsail
 
 ---
