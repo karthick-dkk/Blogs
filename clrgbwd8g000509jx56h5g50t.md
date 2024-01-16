@@ -22,11 +22,11 @@ Terraform Cloud offers remote state management, which securely saves and control
 
 Using Terraform we are going to create AWS resources and we are monitoring the instances by cloud watch.
 
-* If EC2 instances reaches 75% load , Cloud watch will trigger the Auto scale.
+* If EC2 instances CPU reaches 75% load , Cloud watch will trigger the Auto scale.
     
 * Once Auto scale triggered it will add one new instance in EC2.
     
-* If 5 mins avg load reduced to 50%, Auto scale delete the one instance.
+* If 5 mins avg load CPU reduced to 50%, Auto scale delete the one instance.
     
 * Auto scale Min instances = 2, Max=5, Desired=2
     
@@ -45,7 +45,6 @@ Project Link- GitHub: [https://github.com/karthick-dkk/Terraform](https://github
 
 * AWS-CLI
     
-
 * AWS Access Key and Secret key
     
 * Terraform
@@ -136,14 +135,14 @@ check the `terraform --version` for verify.
 ```bash
 git clone https://github.com/karthick-dkk/Terraform
 
-cd Terraform/aws/ec2  
+cd Terraform/aws/ec2
 ```
 
 ## Files Overview: 📜
 
 `app_tfvars` - store the variables values.
 
-`variables` \- Assign the variable , type, default value
+`variables` - Assign the variable , type, default value
 
 `main.tf` - Executable code file, modules
 
@@ -156,7 +155,7 @@ You can modify the configurations as per your requirements.
 Initialize the terraform for download the required plugins
 
 ```bash
-terraform init 
+terraform init
 ```
 
 ## Test the config 🧪
