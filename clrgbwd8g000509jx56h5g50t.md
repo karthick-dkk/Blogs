@@ -1,11 +1,11 @@
 ---
 title: "Terraform (IaC) Automation-End-to-End Project"
-seoTitle: "terraform aws"
+seoTitle: "Terraform (IaC) Automation-End-to-End Project"
 seoDescription: "terraform aws project"
 datePublished: Tue Jan 16 2024 12:26:53 GMT+0000 (Coordinated Universal Time)
 cuid: clrgbwd8g000509jx56h5g50t
 slug: terraform-iac-automation-end-to-end-project
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1705392591995/1371b308-3acf-4e5f-bc9b-afd97f64f3e2.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1705495571660/6a9aed52-be04-4b37-a92e-5318e90f540b.webp
 tags: ec2, aws, devops, terraform, infrastructure-as-code, devsecops, iac
 
 ---
