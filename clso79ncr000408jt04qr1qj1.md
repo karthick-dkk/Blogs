@@ -128,16 +128,16 @@ Choose Clone with SSH
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1708059427382/790249ce-8c7e-4f61-aeaf-1b9e55181d2e.png align="center")
 
-ex:
+ex: [`https://gitlab.com/blueshark02/python-for-devops.git`](https://gitlab.com/blueshark02/python-for-devops.git)
 
 ```bash
-git clone git@<user_1.gitlab.com>:gitlab-org/gitlab.git
+git clone https://gitlab.com/blueshark02/python-for-devops.git
 ```
 
 ## Setup Git set Remote
 
 ```bash
-git remote set-url origin git@<user_1.gitlab.com>:gitlab-org/gitlab.git
+git remote set-url origin https://gitlab.com/blueshark02/python-for-devops.git
 git git branch -M main
 git push -uf origin main
 ```
