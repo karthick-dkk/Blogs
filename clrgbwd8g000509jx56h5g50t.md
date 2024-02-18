@@ -45,7 +45,7 @@ Project Link- GitHub: [https://github.com/karthick-dkk/Terraform](https://github
 
 * AWS-CLI
     
-* AWS Access Key and Secret key
+* Configure AWS Access Key and Secret key
     
 * Terraform
     
