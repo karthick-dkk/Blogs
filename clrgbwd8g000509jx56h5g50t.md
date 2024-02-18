@@ -161,13 +161,13 @@ terraform init
 ## Test the config 🧪
 
 ```bash
-terraform plan -var-file=app_tfvars
+terraform plan -var-file=app.tfvars
 ```
 
 ## Apply the config ⛈️
 
 ```bash
-terraform apply -var-file=app_tfvars
+terraform apply -var-file=app.tfvars
 ```
 
 *<mark>Note:</mark>*
@@ -176,7 +176,7 @@ terraform apply -var-file=app_tfvars
 
 *Terraform will save the current state, previous state , desired state on local file.*
 
-*do not change the configurations from AWS console, once apply terraform , it will produce conflict error, then terraform will corrupt.*
+*do not change the configurations from AWS console, once apply terraform , it will conflict .*
 
 ### Delete the terraform config 🗑️
 
