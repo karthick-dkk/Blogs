@@ -133,9 +133,9 @@ check the `terraform --version` for verify.
 ## Download the Project files from GitHub
 
 ```bash
-git clone https://github.com/karthick-dkk/Terraform
+git clone https://github.com/karthick-dkk/Terraform 
 
-cd Terraform/aws/ec2
+cd Terraform/aws/projects/ec2
 ```
 
 ## Files Overview: 📜
