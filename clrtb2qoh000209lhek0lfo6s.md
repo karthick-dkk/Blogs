@@ -119,7 +119,6 @@ Metrics data convert into time series values and added in X and Y values, for sp
 
 * Needs to be installed on clients. it collect metrics like CPU, Memory, Disk, Network and more.
     
-
 * Communication between the Zabbix server and the Zabbix agent is typically done using the Zabbix protocol
     
 
@@ -186,10 +185,6 @@ Ex: Linux Templates in zabbix
 ### Media Types
 
 All the Webhook, Email, Slack, etc, configuration saved in Media Types. Using media types alerts will send to users as per trigger Action configurations.
-
-Ex: Media Types
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1706191197803/9d45ebf9-d7bf-4baa-8c7d-8fec67544dce.png align="center")
 
 ### Maps
 
@@ -315,7 +310,7 @@ Templates: [https://git.zabbix.com/projects/ZBX/repos/zabbix/browse/templates/ne
 
 [Example:](https://git.zabbix.com/projects/ZBX/repos/zabbix/browse/templates/net/cisco/cisco_catalyst_3750_24fs_snmp)
 
-[**Go to Forticlient Setup**](https://git.zabbix.com/projects/ZBX/repos/zabbix/browse/templates/net/cisco/cisco_catalyst_3750_24fs_snmp) **new SNMP configuration**
+[**Go to Forticlient Setup**](https://git.zabbix.com/projects/ZBX/repos/zabbix/browse/templates/net/cisco/cisco_catalyst_3750_24fs_snmp)**new SNMP configuration**
 
 Create New SNMPv1/v2c
 
