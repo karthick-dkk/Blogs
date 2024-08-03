@@ -196,8 +196,6 @@ Identify the device how they interconnected with each others. we can create the 
 
 **Inventory Management:** Automated tools can maintain an up-to-date inventory of all devices in the network.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1706190080081/5b3efba4-56bc-433f-973c-3ad84c23ad03.png align="center")
-
 **LLD - low level discovery**
 
 Using low level discover Zabbix discover the new hosts or items based on the discovery rules.
